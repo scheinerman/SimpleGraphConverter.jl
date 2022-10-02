@@ -9,7 +9,7 @@ This package convertes graphs between the
 The Julia modules `Graphs` [formerly `LightGraphs`] and `SimpleGraphs` can be used for graph theory computations. 
 Simple graphs (graphs without directions, loops, or multiple edges) are defined in both modules.
 
-* In `Graph` the datatype is `SimpleGraph`.
+* In `Graphs` the datatype is `SimpleGraph`.
 * In `SimpleGraphs` the data type is `UndirectedGraph` (which may be abbreviated `UG`).
 
 This `SimpleGraphConverter` module helps with conversion from one type to the other. 
